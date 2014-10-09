@@ -9,15 +9,15 @@ title: "GDG DevFest Season 2014"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "http://konstantinzolotarev.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Bishkek"
+organizerAlternateName: "Google Developer Group Bishkek"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -53,7 +53,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"", "Season", "Kyrgyzstan", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
